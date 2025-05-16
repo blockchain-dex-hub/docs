@@ -6,6 +6,9 @@
 
 ## Deploy web service
 - https://vercel.com
+- Select apps/web to deploy web
+![image](https://github.com/user-attachments/assets/6c44357d-7c11-4da1-a247-0523ef663f94)
+
 
 
 ## Web demo
