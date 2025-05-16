@@ -14,3 +14,7 @@
 ## Web demo
 - https://bnw-dex-crosschain-web.vercel.app/swap
 
+## How to display token of bnw-chains on Meta
+![image](https://github.com/user-attachments/assets/5da1a69d-2870-49e9-8cf1-90adc932129b)
+
+
