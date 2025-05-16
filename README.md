@@ -1,2 +1,2 @@
-# docs
-docs
+## BNW wallet private key
+- 7e980cc3c54cac88e51664436b791b7c940cde18d2f20ab7be5093e43d08c98e
