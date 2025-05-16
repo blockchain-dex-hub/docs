@@ -62,3 +62,6 @@ Always verify the network details before making any transactions. Make sure you'
 ## Support
 
 If you need additional assistance, please visit [BNW Scan](https://bnwscan.fiotech.org/) for more information and support resources. 
+
+Meta connect info
+![image](https://github.com/user-attachments/assets/ca684f11-5c3b-49ef-a1cc-4f41320ff6e7)
