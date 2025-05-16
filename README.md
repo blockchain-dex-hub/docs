@@ -18,10 +18,12 @@
 - ![image](https://github.com/user-attachments/assets/5da1a69d-2870-49e9-8cf1-90adc932129b)
 
 ## Import bwn tokens to MetaMask
-- ![Uploading image.png…]()
+- ![image](https://github.com/user-attachments/assets/dfee7c63-b049-4035-a73c-60e8b7deb558)
+
 
 ## Or click here to import
-- ![Uploading image.png…]()
+- ![image](https://github.com/user-attachments/assets/3be3e6d2-9ecb-4ef0-8a67-f7fe2851427d)
+
 
 
 
